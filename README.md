@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on in nowhere
 - 🌱 I’m currently learning Python and Data Science
-- 👯 I’m looking to collaborate on AI projects and anything involving python
+- 👯 I’m looking to collaborate on AI projects or whatever involving Data Science
 - 🤔 I’m looking for help with everything, any form of help is always welcome
 - 💬 Ask me about anything you want to know, we'll always find a way to help each other
 - 📫 How to reach me: Direct me on Instagram
