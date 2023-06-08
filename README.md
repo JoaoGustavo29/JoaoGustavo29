@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on in nowhere
+- 🔭 I’m currently working on in POUPEX
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on AI projects or whatever involving Data Science
 - 🤔 I’m looking for help with everything, any form of help is always welcome
